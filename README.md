@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Juel Rana</h1>
 <h3 align="center">Django, RestAPI, Python and ML</h3>
 
-- 🔭 I’m currently working on [MoreFish](https://en.morefish.no/)
+- 🔭 I’m currently working on Agentic AI
 
 - 🌱 I’m currently learning **ML, Django**
 
